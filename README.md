@@ -1,2 +1,2 @@
 # discord-music-bot
-Simple music bot for Discord with play, pause, resume, stop, playlist, and leave commands.
+Simple music bot for Discord with play, pause, resume, stop, volume, playlist, and leave commands.
